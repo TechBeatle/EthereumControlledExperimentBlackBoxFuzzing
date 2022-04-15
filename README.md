@@ -5,6 +5,7 @@ In this work, we report the first empirical study the effects of the Blockchain 
 The study has two parts:
 
 (i) Part One is a controlled experiment on blackbox fuzzing to study the effects of three design factors. 
+
 (a) Sender Addressing
 (b) Execution Order
 (c) Resource Allocation
