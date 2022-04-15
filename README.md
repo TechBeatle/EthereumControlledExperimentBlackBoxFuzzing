@@ -2,7 +2,8 @@
 
 In this work, we report the first empirical study the effects of the Blockchain environment on fuzz testing of Ethereum Smart Contracts.
 
-The study has two parts: 
+The study has two parts:
+
 (i) Part One is a controlled experiment on blackbox fuzzing to study the effects of three design factors. 
 (a) Sender Addressing
 (b) Execution Order
