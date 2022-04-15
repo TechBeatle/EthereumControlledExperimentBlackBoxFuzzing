@@ -1,0 +1,1 @@
+[{"constant":false,"inputs":[{"name":"to","type":"address"}],"name":"suicideSend","outputs":[],"payable":true,"stateMutability":"payable","type":"function"}]

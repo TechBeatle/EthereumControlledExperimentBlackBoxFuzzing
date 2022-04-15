@@ -1,2 +1,2 @@
 # EthereumControlledExperimentBlackBoxFuzzing
-The Effects of Blockchain Environment on Security Vulnerability Detection in Fuzzing Ethereum Smart Contracts: An Empirical Study
+ We conducted a Controlled Experiment on Blackbox Fuzzing of Ethereum Smart Contracts. This Controlled Experiment was created in a PyCharm Project. Move the 'geth' file to directory usr/bin/ and install golang to avoid any problems.
