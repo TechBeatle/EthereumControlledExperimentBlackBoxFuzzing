@@ -1,4 +1,4 @@
-# EthereumControlledExperimentBlackBoxFuzzing
+# The Effects of Blockchain Environment on Security Vulnerability Detection in Fuzzing Ethereum Smart Contracts: An Empirical Study
 
 In this work, we report the first empirical study the effects of the Blockchain environment on fuzz testing of Ethereum Smart Contracts.
 
