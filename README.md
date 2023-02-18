@@ -1,4 +1,4 @@
-# The Effects of Blockchain Environment on Security Vulnerability Detection in Fuzzing Ethereum Smart Contracts: An Empirical Study
+# Is Controlling the Environment Important to Fuzzing Ethereum Smart Contracts? A Controlled Experiment on Environmental Design Factors
 
 In this work, we report the first empirical study the effects of the Blockchain environment on fuzz testing of Ethereum Smart Contracts.
 
